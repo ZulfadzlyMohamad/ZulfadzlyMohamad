@@ -1,0 +1,7 @@
+apt update
+apt upgrade
+pkg install git
+git clone https://ZulfadzlyMohamad/Anonymous-Massage
+cd Anonymous Massage
+chmod +x *
+python Anonymous.py
